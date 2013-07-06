@@ -1,0 +1,8 @@
+1.Run the JServer to start the chat server.
+
+2.Run the JClient and select the 'connect' option under 'File' menu..
+  i.Give the server name, port number, username, password for your account.
+
+3.Start chatting !!  :D
+
+NOTE**: Inorder to send private messages, select the client ffrom client list and send the message.It will be confidential !
